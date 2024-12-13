@@ -23,7 +23,7 @@
     "node": ">=16"
   },
   "dependencies": {
-    "jose": "^4.4.0"
+    "jose": "^4.15.5"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^3.3.1",
